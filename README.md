@@ -1,12 +1,12 @@
-# 📊 Proyecto 7 – Análisis de Clientes ConnectaTel
+# Proyecto 7 – Análisis de Clientes ConnectaTel
 
-## 📌 Objetivo del proyecto
+##  Objetivo del proyecto
 
 El objetivo de este proyecto es analizar el comportamiento de los clientes de ConnectaTel para identificar patrones de uso de llamadas y mensajes, detectar problemas de calidad en los datos, encontrar valores atípicos (outliers) y segmentar a los usuarios según su edad y nivel de uso. Con estos resultados se generan recomendaciones que apoyen la optimización de la oferta comercial y la toma de decisiones.
 
 ---
 
-## 📂 Datasets utilizados
+##  Datasets utilizados
 
 El análisis se realizó utilizando tres conjuntos de datos:
 
@@ -16,7 +16,7 @@ El análisis se realizó utilizando tres conjuntos de datos:
 
 ---
 
-## 🔎 Etapas del análisis
+##  Etapas del análisis
 
 El proyecto se desarrolló siguiendo las siguientes etapas:
 
@@ -31,7 +31,7 @@ El proyecto se desarrolló siguiendo las siguientes etapas:
 
 ---
 
-## ▶️ Cómo ejecutar el notebook
+##  Cómo ejecutar el notebook
 
 Este proyecto puede ejecutarse en **Google Colab** o en un entorno de **Jupyter Notebook**.
 
@@ -43,7 +43,7 @@ Este proyecto puede ejecutarse en **Google Colab** o en un entorno de **Jupyter 
 
 ---
 
-## 🔄 Guía de reproducción
+##  Guía de reproducción
 
 Para reproducir el análisis:
 
@@ -55,7 +55,7 @@ Para reproducir el análisis:
 
 ---
 
-## 🛠️ Herramientas utilizadas
+##  Herramientas utilizadas
 
 - Python
 - Pandas
@@ -66,7 +66,7 @@ Para reproducir el análisis:
 
 ---
 
-## 📈 Resultados principales
+##  Resultados principales
 
 El análisis permitió:
 
